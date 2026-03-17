@@ -1,0 +1,15 @@
+
+h1 {
+    color: rgb(207, 207, 207);
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: rgb(191, 220, 255);
+}
+body {
+    background-color: rgb(117, 117, 117)
+}
+ul {
+    color: rgb(191, 220, 255);
+}
